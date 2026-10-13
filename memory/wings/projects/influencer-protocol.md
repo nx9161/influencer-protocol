@@ -22,3 +22,13 @@
 
 ## Fixes
 - (none yet)
+
+## Viral briefings
+- 2026-10-13 (first live briefing): AI-influencer meta-content is hot —
+  "Instagram Agent Skill" automating pages with Claude (9.3K likes, 27K
+  comments), "Virality Predictor" tool (comments beating likes), 15-min
+  consistency workflows, Jean Philanthrope breakdowns. Comment-CTA loop
+  confirmed again (comments ≥ likes on 3 reels). Decode/reverse-engineer
+  format keeps winning (@imanobou). Plan delivered: (1) "13 AI agents run
+  this account" pipeline reveal, (2) "I decoded 10 viral AI videos" decode,
+  (3) morning-routine discipline reel in POV text-overlay style.
