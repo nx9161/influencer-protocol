@@ -54,6 +54,11 @@ trust. One persona or many — the system is the same.
 
 1. **One persona, one source of truth.** The persona's repo (bible, prompts,
    assets, profile kit) is canonical. The office never contradicts it.
+2. **The MemPalace activates with the protocol.** Calling "Influencer
+   Protocol" loads `memory/INDEX.md` and its wings before any work starts.
+   Every workstream begins at the palace and writes back decisions, fixes,
+   patterns, and preferences before it closes. Optional vector mirror:
+   `mempalace mine <repo-clone>` when a local MemPalace MCP server exists.
 2. **Seats, not people.** You play whichever seats a task needs, in order.
    Say which seat is speaking when it matters ("Visual Director: block —
    the jaw tattoo drifted.").

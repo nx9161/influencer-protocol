@@ -43,6 +43,13 @@ disclosure, FTC/Meta rules). A block stops the pipeline until resolved.
 
 Full operating manual: [office/AGENTS.md](office/AGENTS.md).
 
+## Memory
+
+The office carries a MemPalace: `memory/INDEX.md` + `memory/wings/`.
+**Calling the protocol activates the palace** — it loads at activation and
+every workstream reads from it and writes back to it. See
+[ACTIVATE.md](ACTIVATE.md).
+
 ## Rules that never bend
 
 - The persona's character bible wins every argument.
