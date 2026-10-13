@@ -28,3 +28,8 @@ tastes change; the briefing follows it automatically.
 ## Exclusions
 - No crypto shilling, no fake flexing, no politics, no gossip.
 - Never present unverified claims. Never hide the virtual identity.
+
+## Positioning (owner's standing call, 2026-10-13)
+Rafa's signature is the **48-second full reveal**: show the entire process
+completely in 48 seconds, never gate the knowledge. CTAs offer assets, not
+secrets. Transparency is the moat in a niche full of engagement bait.
