@@ -39,6 +39,7 @@ disclosure, FTC/Meta rules). A block stops the pipeline until resolved.
 | `office/playbooks/war-room.md` | Plan a campaign or content sprint |
 | `office/playbooks/publish.md` | The content pipeline: brief → create → review → post → engage |
 | `office/playbooks/analytics.md` | Weekly scorecard + experiments review |
+| `office/playbooks/viral-briefing.md` | Viral briefing at activation: what's winning in the niche, plan for the week |
 | `office/playbooks/crisis.md` | Incident response: backlash, disclosure slip, impersonation |
 
 Full operating manual: [office/AGENTS.md](office/AGENTS.md).

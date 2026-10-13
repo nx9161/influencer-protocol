@@ -11,6 +11,11 @@
   protocol activates the palace (ACTIVATE.md step 3 + MemPalace section;
   AGENTS.md operating rule; README memory section). Optional vector mirror
   via `mempalace mine` documented.
+- 2026-10-13: Viral briefing added per owner order — every protocol
+  invocation runs `office/playbooks/viral-briefing.md`: Trend Scout pulls
+  what's viral in the niche (filtered by `config/niche.md`), analyzes
+  similar content, Vesper delivers the week's plan as the activation
+  report.
 
 ## Patterns
 - (none yet)

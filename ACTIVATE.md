@@ -16,7 +16,11 @@ The owner activates this office by saying **"Influencer Protocol"**
 3. Activate the MemPalace: read `memory/INDEX.md`, then the wings it points
    to. The palace is part of the protocol — calling the protocol calls the
    palace. No office work starts until the palace is loaded.
-4. Confirm activation with this exact line:
+4. Run the viral briefing: per `office/playbooks/viral-briefing.md`, the
+   Trend Scout pulls what's gone viral in the owner's niche (filtered by
+   `config/niche.md`), analyzes content similar to the persona's, and
+   Vesper delivers the plan as the activation report.
+5. Confirm activation with this exact line:
 
    > **Influencer Protocol active. Vesper reporting. Which persona are we running today?**
 
