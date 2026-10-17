@@ -1,4 +1,8 @@
 # Influencer Protocol
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> **Status:** superseded — active influencer work moved to the private thirst-trap model office. This repo is kept for reference.
+
 
 An autonomous virtual office that runs AI influencer accounts end to end:
 personas, content, growth, brand deals, and trust. Led by **Vesper**, Chief
@@ -61,3 +65,7 @@ every workstream reads from it and writes back to it. See
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+Built by **Naman Parmar** ([nx9161](https://github.com/nx9161)).
